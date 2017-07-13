@@ -1,2 +1,3 @@
-a
+bcdefg
+aaaaaaa
 first add: a b c 
